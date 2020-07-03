@@ -7,7 +7,7 @@
 
 PseudoPieGraph is light weight and simple pie graph. It's easy to integrate into iOS or Mac apps. One of th simplest pie graph out there.
 
-![](/Resources/EmptyGraph.gif | width = 100)
+![](/Resources/CirGraph1.gif)
 
 ## Installation
 
