@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     lazy var circledPieGraph: PseudoPieGraph = {
         let pieGraph = PseudoPieGraph()
         pieGraph.startAngleDeg = 45
-        pieGraph.selectedArcEdge = 8
+        pieGraph.selectedArcEdge = -4
         pieGraph.emptyRadius = 0
         return pieGraph
     }()
