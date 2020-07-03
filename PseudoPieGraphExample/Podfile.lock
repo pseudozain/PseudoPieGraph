@@ -1,0 +1,16 @@
+PODS:
+  - PseudoPieGraph (1.0.0)
+
+DEPENDENCIES:
+  - PseudoPieGraph
+
+SPEC REPOS:
+  trunk:
+    - PseudoPieGraph
+
+SPEC CHECKSUMS:
+  PseudoPieGraph: 0fa2d27de34bd93effff0c4504b342af4889aec4
+
+PODFILE CHECKSUM: 416fba45c8d4364588967f1073798cc3dff13961
+
+COCOAPODS: 1.9.3

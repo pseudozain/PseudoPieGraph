@@ -1,0 +1,6 @@
+framework module Pods_PseudoPieGraphExample {
+  umbrella header "Pods-PseudoPieGraphExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

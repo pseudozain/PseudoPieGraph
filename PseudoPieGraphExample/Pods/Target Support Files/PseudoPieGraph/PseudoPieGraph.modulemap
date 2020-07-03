@@ -1,0 +1,6 @@
+framework module PseudoPieGraph {
+  umbrella header "PseudoPieGraph-umbrella.h"
+
+  export *
+  module * { export * }
+}
